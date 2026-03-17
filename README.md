@@ -16,3 +16,10 @@ This is a simple task manager developed in Python using basic programming concep
 - Conditionals (`if/elif/else`)
 - Exception handling (`try/except`)
 - `enumerate()` for indexing
+
+---
+
+## 👨‍💻 Desenvolvido por
+- Kallew123
+
+---
